@@ -1,0 +1,243 @@
+{
+  "version": 3,
+  "skills": {
+    "find-skills": {
+      "source": "vercel-labs/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/vercel-labs/skills.git",
+      "skillPath": "skills/find-skills/SKILL.md",
+      "skillFolderHash": "3013fdeb8a11b10b1eb795ec3ae8bfca38f7c26d",
+      "installedAt": "2026-04-08T17:20:07.321Z",
+      "updatedAt": "2026-04-08T17:20:07.321Z"
+    },
+    "frontend-design": {
+      "source": "anthropics/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/anthropics/skills.git",
+      "skillPath": "skills/frontend-design/SKILL.md",
+      "skillFolderHash": "928950704df8a8b885c03de5da626331e6f29cf8",
+      "pluginName": "example-skills",
+      "installedAt": "2026-04-30T19:37:32.624Z",
+      "updatedAt": "2026-05-01T10:52:48.389Z"
+    },
+    "vercel-react-best-practices": {
+      "source": "vercel-labs/agent-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/vercel-labs/agent-skills.git",
+      "skillPath": "skills/react-best-practices/SKILL.md",
+      "skillFolderHash": "343db72180d05814949fef7d46be96b5c6ee86b3",
+      "installedAt": "2026-04-30T19:37:45.687Z",
+      "updatedAt": "2026-04-30T19:37:45.687Z"
+    },
+    "minimalist-ui": {
+      "source": "leonxlnx/taste-skill",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/leonxlnx/taste-skill.git",
+      "skillPath": "skills/minimalist-skill/SKILL.md",
+      "skillFolderHash": "5509c012862cda27e2ed7efae89ed940ecc53add",
+      "installedAt": "2026-04-30T19:38:12.838Z",
+      "updatedAt": "2026-05-01T11:03:25.046Z"
+    },
+    "remotion-best-practices": {
+      "source": "remotion-dev/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/remotion-dev/skills.git",
+      "skillPath": "skills/remotion/SKILL.md",
+      "skillFolderHash": "05a7ac1880d0a8cf80fbab5a3424344dba881f4a",
+      "installedAt": "2026-05-01T10:06:55.154Z",
+      "updatedAt": "2026-05-01T10:58:31.160Z"
+    },
+    "remotion-render": {
+      "source": "infsh-skills/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/infsh-skills/skills.git",
+      "skillPath": "tools/video/remotion-render/SKILL.md",
+      "skillFolderHash": "62ff2dd11f3de5142df859fb26741912172f74db",
+      "installedAt": "2026-05-01T10:08:30.221Z",
+      "updatedAt": "2026-05-01T10:08:30.221Z"
+    },
+    "ui-ux-pro-max": {
+      "source": "nextlevelbuilder/ui-ux-pro-max-skill",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill.git",
+      "skillPath": ".claude/skills/ui-ux-pro-max/SKILL.md",
+      "skillFolderHash": "75e1acaafe8b08e59d4b86fc253ac7873aff6bba",
+      "pluginName": "ui-ux-pro-max",
+      "installedAt": "2026-05-01T10:48:46.095Z",
+      "updatedAt": "2026-05-01T10:48:46.095Z"
+    },
+    "seo-audit": {
+      "source": "coreyhaines31/marketingskills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/coreyhaines31/marketingskills.git",
+      "skillPath": "skills/seo-audit/SKILL.md",
+      "skillFolderHash": "d333a589b3cd513296c419ee6911903be8c9865b",
+      "installedAt": "2026-05-01T10:49:07.129Z",
+      "updatedAt": "2026-05-01T10:49:07.129Z"
+    },
+    "ai-seo": {
+      "source": "coreyhaines31/marketingskills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/coreyhaines31/marketingskills.git",
+      "skillPath": "skills/ai-seo/SKILL.md",
+      "skillFolderHash": "fc01f387bd4babda49225822ba97bc6732082be1",
+      "installedAt": "2026-05-01T10:50:24.414Z",
+      "updatedAt": "2026-05-01T10:50:24.414Z"
+    },
+    "impeccable": {
+      "source": "pbakaus/impeccable",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/pbakaus/impeccable.git",
+      "skillPath": ".agents/skills/impeccable/SKILL.md",
+      "skillFolderHash": "e52f0b646390b6c9d0790bf9eb624522e00466aa",
+      "installedAt": "2026-05-01T10:51:01.055Z",
+      "updatedAt": "2026-05-01T10:51:01.055Z"
+    },
+    "emil-design-eng": {
+      "source": "emilkowalski/skill",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/emilkowalski/skill.git",
+      "skillPath": "skills/emil-design-eng/SKILL.md",
+      "skillFolderHash": "0e6f8d7223a0abe73f81e890b3ec76257029a834",
+      "installedAt": "2026-05-01T10:51:50.965Z",
+      "updatedAt": "2026-05-01T10:51:50.965Z"
+    },
+    "web-design-guidelines": {
+      "source": "vercel-labs/agent-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/vercel-labs/agent-skills.git",
+      "skillPath": "skills/web-design-guidelines/SKILL.md",
+      "skillFolderHash": "3116f3e62dbd02b44a598b1aa690d2a8938e8f89",
+      "installedAt": "2026-05-01T10:53:29.277Z",
+      "updatedAt": "2026-05-01T10:53:29.277Z"
+    },
+    "theme-factory": {
+      "source": "anthropics/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/anthropics/skills.git",
+      "skillPath": "skills/theme-factory/SKILL.md",
+      "skillFolderHash": "e05534d132fb1b21f9917840874758e30f0a9b1a",
+      "pluginName": "example-skills",
+      "installedAt": "2026-05-01T10:54:13.949Z",
+      "updatedAt": "2026-05-01T10:54:13.949Z"
+    },
+    "bencium-innovative-ux-designer": {
+      "source": "bencium/bencium-marketplace",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/bencium/bencium-marketplace.git",
+      "skillPath": "bencium-innovative-ux-designer/skills/bencium-innovative-ux-designer/SKILL.md",
+      "skillFolderHash": "7522022b467f03e9d7f1048e6e9884be16c99c42",
+      "installedAt": "2026-05-01T10:58:01.932Z",
+      "updatedAt": "2026-05-01T10:58:01.932Z"
+    },
+    "ai-image-generation": {
+      "source": "infsh-skills/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/infsh-skills/skills.git",
+      "skillPath": "tools/image/ai-image-generation/SKILL.md",
+      "skillFolderHash": "6dd506bfcba735783e28b8ab64559efa44d3a486",
+      "installedAt": "2026-05-01T10:58:43.635Z",
+      "updatedAt": "2026-05-01T10:58:55.543Z"
+    },
+    "supabase-postgres-best-practices": {
+      "source": "supabase/agent-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/supabase/agent-skills.git",
+      "skillPath": "skills/supabase-postgres-best-practices/SKILL.md",
+      "skillFolderHash": "1ee0423a38c358caa23150dfaaed01bbae020bea",
+      "pluginName": "postgres-best-practices",
+      "installedAt": "2026-05-01T10:59:54.032Z",
+      "updatedAt": "2026-05-01T10:59:54.032Z"
+    },
+    "design-md": {
+      "source": "google-labs-code/stitch-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/google-labs-code/stitch-skills.git",
+      "skillPath": "skills/design-md/SKILL.md",
+      "skillFolderHash": "0a84781f35accede7cf373a4129d93bfb7651930",
+      "installedAt": "2026-05-01T11:01:01.889Z",
+      "updatedAt": "2026-05-01T11:01:01.889Z"
+    },
+    "building-native-ui": {
+      "source": "expo/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/expo/skills.git",
+      "skillPath": "plugins/expo/skills/building-native-ui/SKILL.md",
+      "skillFolderHash": "0078663cbdc42e388d2eb9c291dda1a0774eee29",
+      "installedAt": "2026-05-01T11:01:59.558Z",
+      "updatedAt": "2026-05-01T11:01:59.558Z"
+    },
+    "high-end-visual-design": {
+      "source": "leonxlnx/taste-skill",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/leonxlnx/taste-skill.git",
+      "skillPath": "skills/soft-skill/SKILL.md",
+      "skillFolderHash": "1b5943432ddd1b980206968c529a323cc992dbec",
+      "installedAt": "2026-05-01T11:02:22.892Z",
+      "updatedAt": "2026-05-01T11:02:22.892Z"
+    },
+    "shadcn-ui": {
+      "source": "google-labs-code/stitch-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/google-labs-code/stitch-skills.git",
+      "skillPath": "skills/shadcn-ui/SKILL.md",
+      "skillFolderHash": "def8b780a6f3857ca964d1a02c144ef6f86fb21c",
+      "installedAt": "2026-05-01T11:02:44.758Z",
+      "updatedAt": "2026-05-01T11:02:44.758Z"
+    },
+    "stitch-design-taste": {
+      "source": "leonxlnx/taste-skill",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/leonxlnx/taste-skill.git",
+      "skillPath": "skills/stitch-skill/SKILL.md",
+      "skillFolderHash": "743fba3540a3593f15d548935f08f74788e76d3d",
+      "installedAt": "2026-05-01T11:03:39.223Z",
+      "updatedAt": "2026-05-01T11:03:39.223Z"
+    },
+    "industrial-brutalist-ui": {
+      "source": "leonxlnx/taste-skill",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/leonxlnx/taste-skill.git",
+      "skillPath": "skills/brutalist-skill/SKILL.md",
+      "skillFolderHash": "f812ede7e5c34cf680f629911e9f9ac05e416cf4",
+      "installedAt": "2026-05-01T11:05:29.538Z",
+      "updatedAt": "2026-05-01T11:05:29.538Z"
+    },
+    "awwwards-animations": {
+      "source": "devmartinese/awwwards-animations-skill",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/devmartinese/awwwards-animations-skill.git",
+      "skillPath": "SKILL.md",
+      "skillFolderHash": "c92d00b1e09a510120f6d61957ab7cb10d82c14f",
+      "installedAt": "2026-05-01T11:05:50.248Z",
+      "updatedAt": "2026-05-01T11:05:50.248Z"
+    },
+    "3d-web-experience": {
+      "source": "sickn33/antigravity-awesome-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/sickn33/antigravity-awesome-skills.git",
+      "skillPath": "skills/3d-web-experience/SKILL.md",
+      "skillFolderHash": "08a138a1d659ac30ea96a435df26ce6d5530e412",
+      "installedAt": "2026-05-06T20:21:58.729Z",
+      "updatedAt": "2026-05-06T20:21:58.729Z"
+    }
+  },
+  "dismissed": {
+    "findSkillsPrompt": true
+  },
+  "lastSelectedAgents": [
+    "amp",
+    "antigravity",
+    "cline",
+    "codex",
+    "cursor",
+    "deepagents",
+    "dexto",
+    "firebender",
+    "gemini-cli",
+    "github-copilot",
+    "kimi-cli",
+    "opencode",
+    "warp"
+  ]
+}
